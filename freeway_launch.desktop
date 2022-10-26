@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=true $ true opens extra gnome-terminal
+Name=Robot Launch GlobalF4
+Icon=/home/fw/.auto_launch/freeway.png
+$Exec=terminator -e "bash -c '/home/user/.my_dir/robot_launch.sh;$SHELL'" 
+Exec=gnome-terminal -e "zsh -c '/home/fw/.auto_launch/robot_launch_globalf4.sh;$SHELL'"
