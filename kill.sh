@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-source /home/fw05/.zshrc
+source /home/fw/.zshrc
 
 echo "Launching Application, please wait!"
 

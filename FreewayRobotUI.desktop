@@ -2,5 +2,5 @@
 Type=Application
 Terminal=false $ true opens extra gnome-terminal
 Name=FreewayRobotUI
-Icon=/home/fw05/.auto_launch/freeway.png
-Exec=gnome-terminal -e "zsh -c '/home/fw05/.auto_launch/launch_ui.sh;$SHELL'"
+Icon=/home/fw/.auto_launch/freeway.png
+Exec=gnome-terminal -e "zsh -c '/home/fw/.auto_launch/launch_ui.sh;$SHELL'"
